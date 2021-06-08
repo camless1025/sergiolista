@@ -1,0 +1,14 @@
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina" tvg-country="PE" tvg-language="Spanish" tvg-logo="" group-title="",Latina
+https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
+#EXTINF:-1 tvg-id="America.pe" tvg-name="America" tvg-country="PE" tvg-language="Spanish" tvg-logo="" group-title="",America TV
+https://americatv-ecdn3.cdn.mdstrm.com/token=nva=1623128421~dirs=2~hash=0b0de0bb2b90b7b22dcf3/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8
+#EXTINF:-1 tvg-id="Panamericana.pe" tvg-name="Panamericana" tvg-country="PE" tvg-language="Spanish" tvg-logo="" group-title="",Panamericana TV
+https://cdnh71.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-country="PE" tvg-language="Spanish" tvg-logo="" group-title="",ATV
+https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzMjAyNjE0LCJzZXNzaW9uIjoiMTkwLjIzMi4xMzEuMjA3Iiwid2hpdGVsaXN0IjpbIjE5MC4yMzIuMTMxLjIwNyJdfSwic2lnbmF0dXJlIjoiZTYyOTk0YmIzNjJmNTIxMWFkZDVjMDdkODJiMmFhYjc4ODE5NDE2ZiJ9
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-country="PE" tvg-language="Spanish" tvg-logo="" group-title="",ATV+
+https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzMjAyNzg2LCJzZXNzaW9uIjoiMTkwLjIzMi4xMzEuMjA3Iiwid2hpdGVsaXN0IjpbIjE5MC4yMzIuMTMxLjIwNyJdfSwic2lnbmF0dXJlIjoiZTM1YjQ2MmUzNzk3MWFiYTJkNjE2NDRhOGVlMTljMGYzMGZhOGI2YyJ9
+#EXTINF:-1 tvg-id="705" tvg-name="TV Peru Noticias" tvg-logo="https://www.m3u.cl/logo/705_TV_Peru_Noticias.png",TV Peru Noticias
+https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Exitosa.pe" tvg-name="Exitosa" tvg-country="PE" tvg-language="Spanish" tvg-logo="" group-title="",Exitosa
+https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
